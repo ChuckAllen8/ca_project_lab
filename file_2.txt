@@ -1,2 +1,3 @@
 What a wonderful feature.
 Branching and Merging.
+Retrieving a clone is a powerful tool.
